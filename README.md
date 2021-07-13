@@ -1,1 +1,6 @@
-# pre-Aceleracion
+# pre-aceleracion Alkemy 
+
+
+## Challenge ruby 
+
+> Author : Brian Colman 
